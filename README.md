@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Curso Angular : Loiane Groner
 https://www.youtube.com/watch?v=tPOMG0D57S0
+Aulas 1 à 8.
